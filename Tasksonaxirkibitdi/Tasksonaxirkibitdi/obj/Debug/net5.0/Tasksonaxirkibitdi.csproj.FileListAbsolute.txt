@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\Tasksonaxirkibitdi.exe
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\Tasksonaxirkibitdi.deps.json
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\Tasksonaxirkibitdi.runtimeconfig.json
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\Tasksonaxirkibitdi.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\Tasksonaxirkibitdi.dll
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\ref\Tasksonaxirkibitdi.dll
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\bin\Debug\net5.0\Tasksonaxirkibitdi.pdb
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.dll
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\ref\Tasksonaxirkibitdi.dll
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.pdb
+C:\Users\Qasimov\source\repos\Tasksonaxirkibitdi\Tasksonaxirkibitdi\obj\Debug\net5.0\Tasksonaxirkibitdi.genruntimeconfig.cache
